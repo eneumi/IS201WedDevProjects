@@ -1,0 +1,15 @@
+.paddingforres {
+    padding: 50px
+        
+}
+.bold {
+    font-weight: bold}
+
+.linksformatting {
+    text-decoration: underline;
+    color: darkblue;
+}
+li {
+   text-decoration: none;
+    color: black;
+}
